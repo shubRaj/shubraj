@@ -9,7 +9,6 @@
   <img align="left" alt="Shub Raj Lama's Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
-<br />
 
 **Languages & Tools:**
 
