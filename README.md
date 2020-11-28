@@ -1,5 +1,5 @@
 ### Hi there, I'm [Shub Raj!](https://shubraj.herokuapp.com) 👋
-**Connect On:**
+**Connect on:**
 <a href="https://www.facebook.com/Shuvraj.lama7/">
   <img align="left" alt="Shub Raj Lama's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
@@ -10,7 +10,9 @@
   <img align="left" alt="Shub Raj Lama's Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
+
 **Languages & Tools:**
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
