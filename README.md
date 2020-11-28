@@ -1,1 +1,1 @@
-### Hi there, I'm [Shub Raj!][https://shubraj.herokuapp.com]
+### Hi there, I'm [Shub Raj!](https://shubraj.herokuapp.com)
