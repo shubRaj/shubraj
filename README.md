@@ -22,4 +22,4 @@ Hi, I'm Shub Raj Lama, a tech-savvy backend developer.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubraj&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shubraj's github stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubraj&layout=compact&theme=material-palenight" /
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubraj&layout=compact&theme=material-palenight" />
