@@ -14,6 +14,7 @@
 Hi, I'm Shub Raj Lama, a tech-savvy backend developer.
 
 - 👨‍💻 I’m currently learning Postgresql
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubraj" alt="shubraj" /> </p>
 
 **Languages & Tools:**
 
