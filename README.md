@@ -10,6 +10,8 @@
 </a>
 <br />
 <br />
+ 
+I'm Shub Raj Lama, a tech-savvy backend developer.
 
 ### About Me 🙋🏻‍♂️
 ```javascript
