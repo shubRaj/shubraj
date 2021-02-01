@@ -13,7 +13,11 @@
 
 ### About 🙋🏻‍♂️
 ```javascript
-name = "Shubraj"
+class Person():
+  constructor(){
+  this.name = "Shub Raj Lama";
+  this.age = new Date().getFullYear() - 2003
+  }
 ```
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shubraj/&title=Profile%20Views)
