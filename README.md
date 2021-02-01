@@ -12,7 +12,7 @@
 <br />
 
 ### About 🙋🏻‍♂️
-```python
+```javascript
 name = "Shubraj"
 ```
 
