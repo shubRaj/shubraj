@@ -14,6 +14,7 @@
 Hi, I'm Shub Raj Lama, a tech-savvy backend developer.
 
 - 👨‍💻 I’m currently learning Postgresql
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shubraj/&title=Profile%20Views)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubraj" alt="shubraj" /> </p>
 
 **Languages & Tools:**
