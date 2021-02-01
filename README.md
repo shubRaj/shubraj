@@ -13,7 +13,7 @@
 
 ### About 🙋🏻‍♂️
 ```javascript
-class Person:
+class AboutMe:
   constructor(){
     this.name = "Shub Raj Lama";
     this.calibers = ["Backend Dev",];
