@@ -11,7 +11,7 @@
 <br />
 <br />
 
-### About 🙋🏻‍♂️
+### About Me 🙋🏻‍♂️
 ```javascript
 class AboutMe:
   constructor(){
