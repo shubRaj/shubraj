@@ -11,9 +11,6 @@
 <br />
 <br />
 ### About 🙋🏻‍♂️
-```python
-name = "S"
-```
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shubraj/&title=Profile%20Views)
 
