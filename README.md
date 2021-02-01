@@ -10,11 +10,10 @@
 </a>
 <br />
 <br />
-
-Hi, I'm Shub Raj Lama, a tech-savvy backend developer.
-
-- 👨‍💻 I’m currently learning Postgresql
-
+### About 🙋🏻‍♂️
+```javascript
+name = "S"
+```
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/shubraj/&title=Profile%20Views)
 
