@@ -15,9 +15,9 @@
 ```javascript
 class Person():
   constructor(){
-  this.name = "Shub Raj Lama";
-  this.calibers = ["Backend Dev",];
-  this.age = new Date().getFullYear() - 2003;
+    this.name = "Shub Raj Lama";
+    this.calibers = ["Backend Dev",];
+    this.age = new Date().getFullYear() - 2003;
   }
 ```
 
