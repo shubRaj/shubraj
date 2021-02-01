@@ -16,7 +16,8 @@
 class Person():
   constructor(){
   this.name = "Shub Raj Lama";
-  this.age = new Date().getFullYear() - 2003
+  this.calibers = ["Backend Dev",];
+  this.age = new Date().getFullYear() - 2003;
   }
 ```
 
