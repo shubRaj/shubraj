@@ -1,4 +1,4 @@
-### Hi there, I'm [Shub Raj!](https://shubraj.herokuapp.com), a tech-savvy backend developer.
+### Hi there, I'm [Shub Raj!](https://shubraj.cf/), a tech-savvy backend developer.
 <a href="https://www.facebook.com/Shuvraj.lama7/">
   <img align="left" alt="Shub Raj Lama's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
