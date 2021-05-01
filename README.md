@@ -1,6 +1,6 @@
 ### Hi there, I'm [Shub Raj!](https://shubraj.cf/), a tech-savvy backend developer.
 <a href="https://www.facebook.com/meshubraj/">
-  <img align="left" alt="Shub Raj Lama's Facebook" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
+  <img align="left" alt="Shub Raj Lama's Facebook" width="21px" src="https://img.shields.io/badge/-000?&logo=facebook" />
 </a>
 <a href="https://www.instagram.com/shub_raj_lama/">
   <img align="left" alt="Shub Raj Lama's Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
