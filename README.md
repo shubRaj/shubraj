@@ -30,6 +30,6 @@ class AboutMe:
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/shubraj?tab=repositories&q=&type=&language=python)
 [![Django](https://img.shields.io/badge/-Django-000?&logo=django)](https://github.com/shubraj?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-Django-000?&logo=JavaScript)](https://github.com/shubraj?tab=repositories&q=&type=&language=javascript)
+[![JavaScript](https://img.shields.io/badge/-Javascript-000?&logo=JavaScript)](https://github.com/shubraj?tab=repositories&q=&type=&language=javascript)
 [![JavaScript](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)](https://github.com/shubraj?tab=repositories&q=&type=&language=sql)
 
