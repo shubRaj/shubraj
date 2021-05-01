@@ -29,7 +29,7 @@ class AboutMe:
 **Languages & Tools:**
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/shubraj?tab=repositories&q=&type=&language=python)
-[![Django](https://img.shields.io/badge/-Python-000?&logo=django)](https://github.com/shubraj?tab=repositories&q=&type=&language=python)
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+[![Django](https://img.shields.io/badge/-Django-000?&logo=django)](https://github.com/shubraj?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-Django-000?&logo=JavaScript)](https://github.com/shubraj?tab=repositories&q=&type=&language=javascript)
+[![JavaScript](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)](https://github.com/shubraj?tab=repositories&q=&type=&language=sql)
 
