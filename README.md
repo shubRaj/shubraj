@@ -1,5 +1,4 @@
 ### Hi there, I'm [Shub Raj!](https://shubraj.com/), a tech-savvy backend developer.
-<script>alert(1)</script>
 ### About Me 🙋🏻‍♂️
 ```javascript
 class AboutMe:
